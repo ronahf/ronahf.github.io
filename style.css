@@ -62,8 +62,7 @@
             float: left;
             margin-right: 20px;
             padding: 10px;
-            background-color:rgb(1, 15, 4);
-            
+            background-color:rgb(2, 27, 7);  
         }
 
         .imagem-descricao{
@@ -73,14 +72,15 @@
             text-align:left; 
             background-color:#619165;
             margin-top: 10px;
-            
         }
         
+
     
         ol li:nth-child(odd){
             background-color:#f3f7f7;
             margin-right: 87%;
         }
+        
     
 
         /* posso criar a classe. Onde eu quiser marcar desse jeito que .trybe define, vou até o lugar e coloco class="tribe", por exemplo */
