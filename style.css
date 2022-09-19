@@ -1,6 +1,6 @@
         body{
             font-family: 'Big Shoulders Stencil Text', cursive;
-            font-size: 20px; 
+            font-size: 27px; 
             background-color:#083b3b;
         }
         /* pode adicionar vários padrões em conjunto, como o parágrafo e a lista*/
@@ -34,6 +34,15 @@
             padding: rgb(33, 66, 31);
             text-decoration: none;
             font-size: 30px;
+            border-radius: 4px
+        }
+
+        .github{
+            background-color: rgb(33, 66, 31);
+            color:black;
+            padding: rgb(33, 66, 31);
+            text-decoration: none;
+            font-size: 27px;
             border-radius: 4px
         }
 
