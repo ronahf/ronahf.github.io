@@ -20,12 +20,17 @@
         }
 
         .nome{
-            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-            font-size: 23px
+            font-family: 'Big Shoulders Stencil Text', cursive;
+            font-size: 50px;
+            text-align: center;
         }
 
         .descricao{
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Big Shoulders Stencil Text', cursive;
+            font-size: 26px;
+            position: relative;
+            top: 10px;
+            right: 10px;
         }
 
         .button{
@@ -45,5 +50,31 @@
             font-size: 27px;
             border-radius: 4px
         }
+
+
+        #foto-perfil{
+            float: left;
+            margin-right: 20px;
+            padding: 10px;
+            background-color:khaki;
+            
+        }
+
+        .imagem-descricao{
+            height: 360px;
+            font-family: 'Big Shoulders Stencil Text', cursive;
+            font-size: 25px;
+            text-align: left; 
+            background-color:#083b3b;
+            margin-top: 10px;
+            
+        }
+        
+    
+        ol li:nth-child(odd){
+            background-color:#385e5e;
+            margin-right: 87%;
+        }
+    
 
         /* posso criar a classe. Onde eu quiser marcar desse jeito que .trybe define, vou até o lugar e coloco class="tribe", por exemplo */
